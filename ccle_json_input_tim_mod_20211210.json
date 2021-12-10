@@ -1,0 +1,1872 @@
+[
+	{
+		"isfacet": true,
+		"name": "CCLE-RNAseq",
+		"tracks": [
+
+
+      {
+        "type": "bigwig",
+        "assay": "RNAseq",
+        "sample": "SJACT001_D_PCGP",
+        "level1": "ACT",
+        "name": "SJACT001_D_PCGP",
+        "url": "hg38/tim/RNAseqCov/SJACT001_D_PCGP.bw"
+      }
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615222.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "TE-15",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615222.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615225.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "OCUM-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615225.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615226.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "OE19",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615226.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615227.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "OE21",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615227.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615230.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "ONCO-DG-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615230.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615231.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "MES-SA",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615231.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615232.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "MEL-JUSO",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615232.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615233.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "MEL-HO",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615233.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615234.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "MEG-01",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615234.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615235.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "MFE-319",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615235.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615236.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "MFE-296",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615236.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615237.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "MFE-280",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615237.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615238.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "MeWo",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615238.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615239.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "MHH-CALL-2",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615239.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615240.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "MG-63",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615240.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615241.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "Panc 02.13",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615241.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615242.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "OCI-AML3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615242.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615243.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "OAW28",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615243.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615244.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "NUGC-4",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615244.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615245.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "SW 1271",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615245.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615246.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "Capan-2",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615246.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615247.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "Capan-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615247.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615248.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "CCF-STTG1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615248.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615249.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "CAS-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615249.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615250.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "CFPAC-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615250.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615251.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "CCK-81",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615251.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615252.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H2073",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615252.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615253.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H2066",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615253.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615254.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "NCI-H2052",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615254.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615255.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H2030",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615255.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615256.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H2029",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615256.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615257.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H2023",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615257.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615258.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H2009",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615258.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615260.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H1975",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615260.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615261.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "NCI-H196",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615261.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615262.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "OCI-M1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615262.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615263.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "OCI-LY3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615263.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615264.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "CAL-51",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615264.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615265.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "CAL-33",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615265.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615266.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "CAL-29",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615266.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615267.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "CAL 27",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615267.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615268.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "CAL-148",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615268.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615269.ALL",
+				"level1": "lung",
+				"level2": "9",
+				"name": "CAL-12T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615269.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615270.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "CAL-120",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615270.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615271.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "Caki-2",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615271.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615272.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "Caki-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615272.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615273.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "CADO-ES1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615273.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615274.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "EC-GI-10",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615274.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615275.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "HEC-1-A",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615275.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615276.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "HEC-151",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615276.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615277.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "HEC-108",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615277.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615278.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "HDQ-P1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615278.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615279.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "HD-MY-Z",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615279.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615280.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "HDLM-2",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615280.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615281.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "HCT-15",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615281.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615282.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "HCT 116",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615282.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615285.ALL",
+				"level1": "haematopoietic_and_lymphoid_tissue",
+				"level2": "1",
+				"name": "EJM",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615285.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615287.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "EFO-27",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615287.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615289.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "EFM-19",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615289.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615290.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "EFO-21",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615290.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615291.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "EFE-184",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615291.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615292.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "EFM-192A",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615292.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615294.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "EN",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615294.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615295.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "PK-45H",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615295.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615296.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "PK-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615296.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615297.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "DU4475",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615297.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615298.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "PE/CA-PJ41 (clone D2)",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615298.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615299.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "PE/CA-PJ34 (clone C12)",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615299.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615300.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "DU 145",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615300.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615305.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "PE/CA-PJ49",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615305.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615306.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "SNU-308",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615306.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615307.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "SNU-283",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615307.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615308.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "SNU-245",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615308.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615309.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "SNU-216",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615309.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615310.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-398",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615310.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615311.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-387",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615311.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615312.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "SNU-349",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615312.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615313.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "SNU-324",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615313.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615315.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "CAL-54",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615315.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615316.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "SNU-410",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615316.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615317.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "SNU-407",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615317.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615320.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "Hs 766T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615320.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615321.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "Hs 742.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615321.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615322.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "Hs 746T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615322.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615323.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "Hs 822.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615323.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615324.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "Hs 834.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615324.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615325.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "Hs 819.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615325.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615326.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "Hs 821.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615326.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615327.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "Hs 839.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615327.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615328.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "Hs 840.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615328.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615333.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "UO-31",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615333.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615334.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "UM-UC-3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615334.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615335.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "UM-UC-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615335.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615336.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "U-BLC1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615336.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615337.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "UACC-893",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615337.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615338.ALL",
+				"level1": "breast",
+				"level2": "13",
+				"name": "UACC-812",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615338.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615339.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "UACC-62",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615339.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615340.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "UACC-257",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615340.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615342.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "NCC-StC-K140",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615342.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615344.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "NB-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615344.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615353.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "KMRC-3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615353.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615355.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "KMRC-20",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615355.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615356.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "KMRC-2",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615356.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615357.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "KELLY",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615357.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615359.ALL",
+				"level1": "pancreas",
+				"level2": "8",
+				"name": "PA-TU-8988T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615359.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615362.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "KATO III",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615362.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615366.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "KE-39",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615366.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615379.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "GSS",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615379.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615381.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "GP2d",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615381.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615382.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "GOS-3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615382.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615383.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "GMS-10",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615383.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615384.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "GI-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615384.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615386.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "GCT",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615386.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615387.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "Li-7",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615387.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615388.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "H4",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615388.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615389.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "GSU",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615389.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615390.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "TE-8",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615390.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615391.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "KYM-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615391.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615392.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "LS513",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615392.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615393.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "LS411N",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615393.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615396.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "LS1034",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615396.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615398.ALL",
+				"level1": "large_intestine",
+				"level2": "11",
+				"name": "LS 180",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615398.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615404.ALL",
+				"level1": "stomach",
+				"level2": "2",
+				"name": "AGS",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615404.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615405.ALL",
+				"level1": "kidney",
+				"level2": "16",
+				"name": "ACHN",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615405.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615406.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "ACC-MESO-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615406.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615410.ALL",
+				"level1": "central_nervous_system",
+				"level2": "10",
+				"name": "AM-38",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615410.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615413.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "AN3 CA",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615413.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615414.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "Hs 294T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615414.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615419.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "Hs 600.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615419.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615430.ALL",
+				"level1": "skin",
+				"level2": "5",
+				"name": "RVH-421",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615430.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615431.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "RT4",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615431.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615432.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "RT-112",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615432.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615433.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "RS-5",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615433.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615438.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "RMUG-S",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615438.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615439.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "RMG-I",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615439.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615445.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "NIH:OVCAR-3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615445.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615447.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "NH-6",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615447.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615463.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "TE 441.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615463.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615464.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "TE-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615464.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615467.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "TE-6",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615467.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615468.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "TE 617.T",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615468.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615469.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "TE-5",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615469.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615470.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "TE-4",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615470.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615471.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-878",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615471.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615472.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-886",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615472.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615473.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "SNU-840",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615473.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615477.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "SNU-899",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615477.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615478.ALL",
+				"level1": "ovary",
+				"level2": "3",
+				"name": "SNU-8",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615478.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615481.ALL",
+				"level1": "oesophagus",
+				"level2": "0",
+				"name": "KYSE-520",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615481.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615483.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "JHH-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615483.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615487.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "IST-MES2",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615487.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615488.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "IST-MES1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615488.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615490.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "J82",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615490.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615493.ALL",
+				"level1": "endometrium",
+				"level2": "6",
+				"name": "Ishikawa (Heraklio) 02 ER-",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615493.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615497.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "SK-N-MC",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615497.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615501.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "SK-N-BE(2)",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615501.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615502.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "SK-N-AS",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615502.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615506.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "SK-N-SH",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615506.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615521.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "MHH-ES-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615521.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615522.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "MHH-NB-11",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615522.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615525.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "SNU-1076",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615525.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615526.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "CHP-126",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615526.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615527.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "CAL-78",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615527.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615540.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "NCI-H28",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615540.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615541.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "NCI-H2452",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615541.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615547.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "LNCaP clone FGC",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615547.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615555.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "JL-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615555.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615559.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "JMSU-1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615559.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615562.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "SW-1710",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615562.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615565.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "SNU-1196",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615565.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615569.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "CAL-62",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615569.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615570.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "SNU-1066",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615570.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615571.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "SNU-1079",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615571.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615575.ALL",
+				"level1": "upper_aerodigestive_tract",
+				"level2": "14",
+				"name": "SNU-1041",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615575.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615579.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "MDA PCa 2b",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615579.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615587.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "S-117",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615587.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615592.ALL",
+				"level1": "bone",
+				"level2": "7",
+				"name": "RD-ES",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615592.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615595.ALL",
+				"level1": "soft_tissue",
+				"level2": "4",
+				"name": "RD",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615595.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615641.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "PC-3",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615641.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615644.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "8505C",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615644.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615645.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "8305C",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615645.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615650.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-475",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615650.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615651.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "SNU-478",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615651.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615654.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-423",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615654.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615655.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "SNU-449",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615655.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615661.ALL",
+				"level1": "liver",
+				"level2": "19",
+				"name": "HuH-7",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615661.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615663.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "HuH28",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615663.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615666.ALL",
+				"level1": "biliary_tract",
+				"level2": "18",
+				"name": "HuCCT1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615666.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615671.ALL",
+				"level1": "urinary_tract",
+				"level2": "15",
+				"name": "SW 780",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615671.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615675.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "SIMA",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615675.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615699.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "MPP 89",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615699.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615700.ALL",
+				"level1": "pleura",
+				"level2": "12",
+				"name": "MSTO-211H",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615700.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615726.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "TT",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615726.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615728.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "TT2609-C02",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615728.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615773.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "B-CPAP",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615773.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615776.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "BHT-101",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615776.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615842.ALL",
+				"level1": "autonomic_ganglia",
+				"level2": "20",
+				"name": "IMR-32",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615842.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615847.ALL",
+				"level1": "small_intestine",
+				"level2": "24",
+				"name": "HuTu 80",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615847.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615868.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "FTC-238",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615868.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615869.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "FTC-133",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615869.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8615892.ALL",
+				"level1": "thyroid",
+				"level2": "21",
+				"name": "SW579",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8615892.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8616018.ALL",
+				"level1": "salivary_gland",
+				"level2": "25",
+				"name": "A-253",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8616018.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8616157.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "NCI-H660",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8616157.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8616169.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "22Rv1",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8616169.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8618305.ALL",
+				"level1": "prostate",
+				"level2": "17",
+				"name": "VCaP",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8618305.ALL.bw"
+			},
+			{
+				"type": "bigwig",
+				"assay": "RNAseq",
+				"sample": "SRP186687_SRR8618308.ALL",
+				"level1": "salivary_gland",
+				"level2": "25",
+				"name": "YD-15",
+				"url": "http://shawlab.science/shiny/CCLE/bw/sra.base_sums.SRP186687_SRR8618308.ALL.bw"
+			}
+		]
+	}
+]

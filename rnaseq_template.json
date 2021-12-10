@@ -1,0 +1,16 @@
+[
+  {
+    "isfacet": true,
+    "name": "CART-RNAseq",
+    "tracks": [
+      {
+        "type": "bigwig",
+        "assay": "RNAseq",
+        "sample": "SJACT001_D_PCGP",
+        "level1": "ACT",
+        "name": "SJACT001_D_PCGP",
+        "file": "hg38/tim/RNAseqCov/SJACT001_D_PCGP.bw"
+      },
+    ]
+  }
+]
